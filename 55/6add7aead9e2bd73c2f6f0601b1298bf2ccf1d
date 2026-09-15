@@ -1,0 +1,54 @@
+frontend/src/locales/en.json
+  s_ce1eaaa172d455::t_b1fbc6b489e441 49,52-53
+  s_ce1eaaa172d455::t_a70042c81b4554 51
+  s_ce1eaaa172d455::t_080abfccc37779 50
+frontend/src/Context/screenShare/screenShare$.tsx
+  s_ce1eaaa172d455::t_f2f2dd926a6402 71-73
+  s_ce1eaaa172d455::t_3bfbf9871c7747 66-68
+  s_ce1eaaa172d455::t_d58389a0d22b46 4
+  s_ce1eaaa172d455::t_d95eccc758481f 69-70
+frontend/src/locales/es.json
+  s_ce1eaaa172d455::t_96ed35c4eab236 50
+  s_ce1eaaa172d455::t_0320fa87edad9e 49,52-53
+  s_ce1eaaa172d455::t_4f9dd25c48a451 51
+frontend/src/locales/es-MX.json
+  s_ce1eaaa172d455::t_5fc7deb816990b 50
+  s_ce1eaaa172d455::t_40343afd0f5887 49,52-53
+  s_ce1eaaa172d455::t_b13c477260a9c6 51
+frontend/src/locales/ja.json
+  s_ce1eaaa172d455::t_5470328f5e1efa 50
+  s_ce1eaaa172d455::t_a91762d853f45b 51
+  s_ce1eaaa172d455::t_17c0421f0221c1 49,52-53
+frontend/src/components/AdvancedSettingsDialog/types/types.ts
+  s_ce1eaaa172d455::t_e49864e04d35b0 21,25
+  s_ce1eaaa172d455::t_081f766a43637c 26-27
+  s_ce1eaaa172d455::t_fb3bec010a75e1 24
+  s_ce1eaaa172d455::t_0a79ab174734f4 22-23
+  s_ce1eaaa172d455::t_635934b4d41258 28-29
+frontend/src/locales/de.json
+  s_ce1eaaa172d455::t_1c900e8622218a 49,52-53
+  s_ce1eaaa172d455::t_2244c44d6437e4 50
+  s_ce1eaaa172d455::t_001d083d6e06cb 51
+frontend/src/locales/it.json
+  s_ce1eaaa172d455::t_8537e887980de1 50
+  s_ce1eaaa172d455::t_0de6042459b786 51
+  s_ce1eaaa172d455::t_de5a17e417fbfc 49,52-53
+frontend/src/components/AdvancedSettingsDialog/components/AdvancedSettingsGeneralTab/AdvancedSettingsGeneralTab.tsx
+  s_ce1eaaa172d455::t_e58ca5839cecdc 3-11,15-25,32-40
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "556add7aead9e2bd73c2f6f0601b1298bf2ccf1d",
+  "prompts": {},
+  "sessions": {
+    "s_ce1eaaa172d455": {
+      "agent_id": {
+        "tool": "kiro",
+        "id": "sess_bb5c103e-189c-4807-b105-c213be1af08a",
+        "model": "auto"
+      },
+      "human_author": "Anna Tsolakou <anna.tsolakou@vonage.com>"
+    }
+  }
+}
