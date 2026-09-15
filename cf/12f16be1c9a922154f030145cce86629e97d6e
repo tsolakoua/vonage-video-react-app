@@ -1,0 +1,19 @@
+frontend/src/components/AdvancedSettingsDialog/components/AdvancedSettingsGeneralTab/AdvancedSettingsGeneralTab.spec.tsx
+  s_ce1eaaa172d455::t_f7a1e255b8a7aa 12
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "cf12f16be1c9a922154f030145cce86629e97d6e",
+  "prompts": {},
+  "sessions": {
+    "s_ce1eaaa172d455": {
+      "agent_id": {
+        "tool": "kiro",
+        "id": "sess_bb5c103e-189c-4807-b105-c213be1af08a",
+        "model": "auto"
+      },
+      "human_author": "Anna Tsolakou <anna.tsolakou@vonage.com>"
+    }
+  }
+}
