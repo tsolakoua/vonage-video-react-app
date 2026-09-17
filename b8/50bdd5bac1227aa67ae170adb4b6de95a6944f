@@ -1,0 +1,35 @@
+frontend/src/components/AdvancedSettingsDialog/components/AdvancedSettingsScreenSharingTab/AdvancedSettingsScreenSharingTab.tsx
+  s_0aa24ed46e5615::t_7c3f5ba3b8ea64 132-136,138,148-150,152-155
+  s_0aa24ed46e5615::t_ce0ca9287589c6 137
+  s_0aa24ed46e5615::t_37773a1f28ad30 151
+  s_0aa24ed46e5615::t_860c3951013c18 36-38
+  s_0aa24ed46e5615::t_d0094cedffb593 8-12,18,27-32
+frontend/src/locales/en.json
+  s_0aa24ed46e5615::t_50652755445bdd 68-72
+frontend/src/locales/es-MX.json
+  s_0aa24ed46e5615::t_56344f0cda2342 68-72
+frontend/src/locales/de.json
+  s_0aa24ed46e5615::t_6624032c518cc1 68-72
+frontend/src/locales/es.json
+  s_0aa24ed46e5615::t_b07d481df852c7 68-72
+frontend/src/locales/ja.json
+  s_0aa24ed46e5615::t_81e2eef68607e8 68-72
+frontend/src/locales/it.json
+  s_0aa24ed46e5615::t_edf6fd12c76f9a 68-72
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "b850bdd5bac1227aa67ae170adb4b6de95a6944f",
+  "prompts": {},
+  "sessions": {
+    "s_0aa24ed46e5615": {
+      "agent_id": {
+        "tool": "kiro",
+        "id": "sess_d4676010-cd25-4cef-9f79-246d2501e027",
+        "model": "auto"
+      },
+      "human_author": "Anna Tsolakou <anna.tsolakou@vonage.com>"
+    }
+  }
+}
