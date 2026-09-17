@@ -1,0 +1,26 @@
+frontend/src/components/AdvancedSettingsDialog/components/AdvancedSettingsScreenSharingTab/AdvancedSettingsScreenSharingTab.spec.tsx
+  s_8bc468d81cf6f1::t_78fb3793d9af29 18,23
+  s_8bc468d81cf6f1::t_16b49a5a62a39b 1-17,19-22,24-80
+frontend/src/Context/screenShare/screenShare$.test.tsx
+  s_8bc468d81cf6f1::t_f555bc1bc65c11 345-410
+integration-tests/tests/advancedSettings.spec.ts
+  s_8bc468d81cf6f1::t_ea4c5aef2e889d 89-92,94-103
+  s_8bc468d81cf6f1::t_45190619a440cc 93
+  s_8bc468d81cf6f1::t_b6be2272a48015 118-131
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "eee22ba4ecf3303a0a4cff54efb18af141d99e5b",
+  "prompts": {},
+  "sessions": {
+    "s_8bc468d81cf6f1": {
+      "agent_id": {
+        "tool": "kiro",
+        "id": "sess_1839c5d4-dd1d-45b2-8b38-c1f346653cb2",
+        "model": "auto"
+      },
+      "human_author": "Anna Tsolakou <anna.tsolakou@vonage.com>"
+    }
+  }
+}
