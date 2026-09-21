@@ -1,0 +1,19 @@
+frontend/src/components/AdvancedSettingsDialog/components/AdvancedSettingsScreenSharingTab/AdvancedSettingsScreenSharingTab.spec.tsx
+  s_eb7d7b9427b273::t_72730bca7eb542 4
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "7e79052efd433afe2dd1f81657bef7c2c6cd06cd",
+  "prompts": {},
+  "sessions": {
+    "s_eb7d7b9427b273": {
+      "agent_id": {
+        "tool": "kiro",
+        "id": "sess_51185a54-742d-4423-b29f-0f40b3274077",
+        "model": "auto"
+      },
+      "human_author": "Anna Tsolakou <anna.tsolakou@vonage.com>"
+    }
+  }
+}
