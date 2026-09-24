@@ -1,0 +1,14 @@
+frontend/src/components/AdvancedSettingsDialog/components/AdvancedSettingsScreenSharingTab/AdvancedSettingsScreenSharingTab.tsx
+  h_6c0124248e0f80 152-159
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "5217d33dd0af382b3ba64fe0a5bcea92dc9768f1",
+  "prompts": {},
+  "humans": {
+    "h_6c0124248e0f80": {
+      "author": "Anna Tsolakou <anna.tsolakou@vonage.com>"
+    }
+  }
+}
